@@ -21,7 +21,7 @@
 <h2>Setup and Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/YouTube-Transcript-Summarizer.git</code></pre>
+        <pre><code>git clone https://github.com/M-Shaharyar/YouTube-Video-Summarizer.git</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd YouTube-Transcript-Summarizer</code></pre>
